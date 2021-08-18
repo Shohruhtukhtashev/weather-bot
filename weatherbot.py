@@ -13,7 +13,7 @@ from aiogram import Bot, Dispatcher, executor, types
 import math 
     
     
-API_TOKEN = '1850109354:AAEdYjjm0YOJFvAKJEhP_D0Kqfnt8RtkZ1g'
+API_TOKEN = '1845140655:AAEvMCuu4He2Gww-Cj0QNpBeLM4NYZF_AIM'
 client = python_weather.Client(format=python_weather.IMPERIAL)
 
  # Configure logging
